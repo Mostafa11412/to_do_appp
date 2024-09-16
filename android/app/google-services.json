@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890067248661",
+    "project_id": "todoappp-ec148",
+    "storage_bucket": "todoappp-ec148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890067248661:android:f3a093ef481f5ad29dd01c",
+        "android_client_info": {
+          "package_name": "com.example.to_do_appp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_DdLZPNcz8YEFabWmZ0TqQlOvsuwg1Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
